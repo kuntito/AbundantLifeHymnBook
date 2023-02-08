@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hymn Book</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Search title, lyrics or number</string>
+    <string name="hymn_list_header">ABUNDANT LIFE SELECTED\nINSPIRATIONAL HYMNS</string>
+    <string name="long_hymn_title">Another Hymn Title But Waaaaaaaaaaaaaaaaaaay Longer"</string>
+    <string name="hymn_title">Hymn Title"</string>
+    <string name="blank" />
+    <string name="hymn_verse_lyrics">You tell me get away but you don\'t mean that\nYou tell me leave me alone but you don\'t need that\nI\'m my own zoo, I don\'t need you\nI\'m a big girl I can do this all on my own\nSo why you wanna love me so bad\nWhy you wanna love me so bad\nI swear no matter what I touch it breaks\n</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="search_result">Search results</string>
+</resources>

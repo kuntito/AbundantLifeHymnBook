@@ -1,0 +1,176 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-mergeDebugResources-69:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-night\\splashscreen.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1289",
+                        "endLines": "33",
+                        "endColumns": "12",
+                        "endOffsets": "1610"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\.gradle\\caches\\transforms-3\\5119a1a7e6d4b37fabcf7f8bdd247082\\transformed\\material-1.4.0-beta01\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,58,59,60,61,62,63,64",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2247,2335,2459,2561,2663,2779,2881,2995,3123,3239,3361,3497,3617,3751,3871,3983,4198,4322,4452,4574,4712,4846,4962",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "2330,2454,2556,2658,2774,2876,2990,3118,3234,3356,3492,3612,3746,3866,3978,4104,4317,4447,4569,4707,4841,4957,5077"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\.gradle\\caches\\transforms-3\\b337e567a97552d20c2e1a823a166141\\transformed\\appcompat-1.4.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,57",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1615,1685,1769,1853,1949,2051,2153,4109",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "1680,1764,1848,1944,2046,2148,2242,4193"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1",
+                        "startOffsets": "104,-1,-1,-1,-1",
+                        "endLines": "14,-1,-1,-1,-1",
+                        "endColumns": "12,-1,-1,-1,-1",
+                        "endOffsets": "834,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,65,68,72,82",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "689,5082,5188,5373,5860",
+                        "endLines": "25,67,71,81,84",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1284,5183,5368,5855,5986"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-night\\hymn_verse_tab_layout_style.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,508",
+                        "endLines": "8,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "503,684"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.kuntito.abundantlifehymnbook.app-mergeDebugResources-69:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-night\\splashscreen.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1291",
+                        "endLines": "33",
+                        "endColumns": "12",
+                        "endOffsets": "1612"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\.gradle\\caches\\transforms-3\\5119a1a7e6d4b37fabcf7f8bdd247082\\transformed\\material-1.4.0-beta01\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,58,59,60,61,62,63,64",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2249,2337,2461,2563,2665,2781,2883,2997,3125,3241,3363,3499,3619,3753,3873,3985,4200,4324,4454,4576,4714,4848,4964",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "2332,2456,2558,2660,2776,2878,2992,3120,3236,3358,3494,3614,3748,3868,3980,4106,4319,4449,4571,4709,4843,4959,5079"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\.gradle\\caches\\transforms-3\\b337e567a97552d20c2e1a823a166141\\transformed\\appcompat-1.4.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,57",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1617,1687,1771,1855,1951,2053,2155,4111",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "1682,1766,1850,1946,2048,2150,2244,4195"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1",
+                        "startOffsets": "104,-1,-1,-1,-1",
+                        "endLines": "14,-1,-1,-1,-1",
+                        "endColumns": "12,-1,-1,-1,-1",
+                        "endOffsets": "836,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,65,68,72,82",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "689,5084,5190,5375,5862",
+                        "endLines": "25,67,71,81,84",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1286,5185,5370,5857,5988"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-night\\hymn_verse_tab_layout_style.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,508",
+                        "endLines": "8,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "503,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

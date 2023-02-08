@@ -1,0 +1,60 @@
+package com.kuntito.abundantlifehymnbook.data
+
+import com.kuntito.abundantlifehymnbook.data.hymn_objects.*
+
+object AllHymns {
+    val hymns = listOf(
+        AboveAllPower,
+        AlleluiaAlleluiaAlleluia,
+        AllHailThePowerOfJesus,
+        AllToJesusISurrender,
+        BlessedAssuranceJesusIsMine,
+        DeeperDeeperInTheLove,
+        GodBeWithYou,
+        GreatIsThyFaithfulness,
+        HaveThineOwnWayLord,
+        HaveYouBeenToJesus,
+        HolyHolyHolyLordGodAlmighty,
+        IAmSoGlad,
+        IAmThineOLord,
+        IHaveFoundAFriendInJesus,
+        ImmortalInvisibleGod,
+        IsThereAHeartThatIsWaiting,
+        JesusLoveTheLittleChildren,
+        MustIGoAndEmptyHanded,
+        MyFaithLookUpToThee,
+        MyHopeIsBuiltOnNothingLess,
+        OGodOurHelp,
+        OhLordMyGod,
+        OnwardChristianSoldiers,
+        PassMeNotOGentleSaviour,
+        PraiseHimPraiseHim,
+        RockOfAgesCleftForMe,
+        SoftlyAndTenderly,
+        StandingOnThePromises,
+        StandUpStandUpForJesus,
+        TakeMyLifeLetItBe,
+        ThereIsNotAFriend,
+        ThereShallBeShowersOfBlessing,
+        ToGodBeTheGlory,
+        WhatAFriendWeHaveInJesus,
+        WhatCanWashAwayMyStain,
+        //new entries
+        InChristAlone,
+        OldRuggedCross,
+        TisSoSweetToTrustInJesus,
+        TrustAndObey,
+        HeavenComeDown,
+        JustAsIAmWithoutOnePlea,
+        IMustTellJesus,
+        FillMyCupLord,
+        HigherGround,
+        ComeThouFountOfEveryBlessing,
+        BlessTheLord10000Reasons,
+        CountYourBlessings,
+        AncientWords,
+        ItIsWellWithMySoul,
+        TheGreatPhysicianIsHere
+    )
+    get() = field.sortedBy { it.id }
+}

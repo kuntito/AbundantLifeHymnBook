@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/tv_verse_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/h1Style"
+        tools:text = "Verse 2"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:requiresFadingEdge="vertical"
+        android:fillViewport="true"
+        android:focusable="true"
+        android:paddingHorizontal="@dimen/app_padding"
+        android:paddingBottom="@dimen/app_padding"
+        android:clipToPadding="true"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_verse_lyrics"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            style="@style/h1Style"
+            tools:text ="@string/hymn_verse_lyrics"/>
+    </ScrollView>
+</LinearLayout>
+

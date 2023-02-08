@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/hymnListFragment">
+
+    <fragment
+        android:id="@+id/hymnListFragment"
+        android:name="com.kuntito.abundantlifehymnbook.ui.fragments.HymnListFragment"
+        android:label="HymnListFragment" >
+        <action
+            android:id="@+id/action_hymnListFragment_to_hymnLyricsFragment"
+            app:destination="@id/hymnLyricsFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/hymnLyricsFragment"
+        android:name="com.kuntito.abundantlifehymnbook.ui.fragments.HymnLyricsFragment"
+        android:label="fragment_hymn_lyrics"
+        tools:layout="@layout/fragment_hymn_lyrics" />
+</navigation>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.kuntito.abundantlifehymnbook.app-mergeDebugResources-70:/layout/hymn_verse_item.xml",
+        "source": "com.kuntito.abundantlifehymnbook.app-main-73:/layout/hymn_verse_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-mergeDebugResources-70:\\layout\\fragment_base.xml",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-mergeDebugResources-70:\\layout\\tab_custom_view.xml",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\tab_custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-mergeDebugResources-70:\\layout\\hymn_verse_item.xml",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\hymn_verse_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-mergeDebugResources-70:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-mergeDebugResources-70:\\layout\\fragment_hymn_lyrics.xml",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\fragment_hymn_lyrics.xml"
+    }
+]

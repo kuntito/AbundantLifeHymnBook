@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-hdpi_ic_hymnbook_launcher_round.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-hdpi\\ic_hymnbook_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\layout_hymn_verse_item.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\hymn_verse_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-anydpi-v26_ic_hymnbook_launcher.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-anydpi-v26\\ic_hymnbook_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-mdpi_ic_hymnbook_launcher.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-mdpi\\ic_hymnbook_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-hdpi_ic_hymnbook_launcher.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-hdpi\\ic_hymnbook_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-anydpi-v26_ic_hymnbook_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-anydpi-v26\\ic_hymnbook_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxhdpi_ic_hymnbook_launcher.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxhdpi\\ic_hymnbook_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_hymnbook_launcher_fg.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_hymnbook_launcher_fg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxxhdpi_ic_hymnbook_launcher.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxxhdpi\\ic_hymnbook_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_arrow_up.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "com.kuntito.abundantlifehymnbook.app-merged_res-71:/layout_hymn_verse_item.xml.flat",
+        "source": "com.kuntito.abundantlifehymnbook.app-main-73:/layout/hymn_verse_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_app_bg_dark.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_app_bg_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_scroll_view_bg.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\scroll_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\layout_fragment_hymn_lyrics.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\fragment_hymn_lyrics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xhdpi_ic_hymnbook_launcher_round.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xhdpi\\ic_hymnbook_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable-v24_ripple_effect_circle.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable-v24\\ripple_effect_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\layout_fragment_base.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_algc.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_algc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-mdpi_ic_hymnbook_launcher_round.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-mdpi\\ic_hymnbook_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\layout_tab_custom_view.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\tab_custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_app_bg.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\app_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_algc_splash.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_algc_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xhdpi_ic_hymnbook_launcher.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xhdpi\\ic_hymnbook_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable_ic_hymnbook_launcher_bg.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable\\ic_hymnbook_launcher_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\drawable-night_app_bg.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\drawable-night\\app_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxhdpi_ic_hymnbook_launcher_round.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxhdpi\\ic_hymnbook_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-xxxhdpi_ic_hymnbook_launcher_round.png.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-xxxhdpi\\ic_hymnbook_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-merged_res-71:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-main-73:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

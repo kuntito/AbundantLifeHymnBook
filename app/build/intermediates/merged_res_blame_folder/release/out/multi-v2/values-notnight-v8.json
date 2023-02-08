@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kuntito.abundantlifehymnbook.app-mergeReleaseResources-66:/values-notnight-v8/values-notnight-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-notnight\\hymn_verse_tab_layout_style.xml",
+                    "from": {
+                        "startLines": "8,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "304,57",
+                        "endLines": "14,6",
+                        "endColumns": "12,12",
+                        "endOffsets": "713,296"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,463",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "458,698"
+                    }
+                }
+            ]
+        }
+    ]
+}

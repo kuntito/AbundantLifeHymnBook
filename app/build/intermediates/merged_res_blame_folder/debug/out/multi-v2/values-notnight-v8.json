@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kuntito.abundantlifehymnbook.app-mergeDebugResources-69:/values-notnight-v8/values-notnight-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-notnight\\hymn_verse_tab_layout_style.xml",
+                    "from": {
+                        "startLines": "8,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "304,-1",
+                        "endLines": "14,-1",
+                        "endColumns": "12,-1",
+                        "endOffsets": "713,-1"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,463",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "458,698"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Kun\\.gradle\\daemon\\7.3.3\\com.kuntito.abundantlifehymnbook.app-mergeDebugResources-69:\\values-notnight-v8\\values-notnight-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kun\\Documents\\AndroidStudioProjects\\AbundantLifeHymnBook\\app\\src\\main\\res\\values-notnight\\hymn_verse_tab_layout_style.xml",
+                    "from": {
+                        "startLines": "8,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "304,57",
+                        "endLines": "13,6",
+                        "endColumns": "12,12",
+                        "endOffsets": "649,296"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,400",
+                        "endLines": "7,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "395,635"
+                    }
+                }
+            ]
+        }
+    ]
+}
